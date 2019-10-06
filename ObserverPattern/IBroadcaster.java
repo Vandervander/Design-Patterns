@@ -29,7 +29,9 @@ interface IBroadcaster {
 	/*
 	 * These fields and methods maintain the
 	 * records of all Subscribers served by
-	 * the Broadcaster instance
+	 * the Broadcaster instance.
+	 * 
+	 * This comment is probably unnecessary.
 	 */
 	/**
 	 * This is a list of all "subscribed" Subscriber instances
